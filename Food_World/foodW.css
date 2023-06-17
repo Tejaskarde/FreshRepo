@@ -1,0 +1,140 @@
+
+.navbar {
+    position: relative;
+    top: -10px;
+    left: -8px;
+    width: 100vw;
+    height: 80px;
+    background-color: #0f1111 ; 
+    color: white;
+    display: flex;
+    align-items: center;
+    /* align-items: self-start; */
+    justify-content: space-evenly;
+
+ }
+
+ h1{
+    margin-left:40px ;
+ }
+
+ a{
+    text-decoration: none;
+    color : white
+     
+ }
+
+ 
+ /* Navbar Heder end */
+
+ /* main content */
+ .main{
+         
+         text-align: center;
+         justify-content: center;
+         align-items: center;
+  }
+ .main div{
+    margin-top: 40px;
+    margin-left: 550px;
+    padding-top: 1px;
+    border-radius: 50%; 
+    padding-right: 40px;
+    width: 400px;
+    height:40px ;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(237,7,7,1) 37%, rgba(0,0,0,1) 100%);
+ }
+.main div h1{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+
+.main p{
+    text-align: center;
+}
+
+ .imgdiv  img{
+    width: 500px;
+    height: 300px;
+    border-radius: 2rem;
+}
+
+.imgdiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10px;
+}
+
+.title1{
+    display: flex;
+    
+    justify-content: space-between;
+    margin-left: 350px;
+    margin-right: 350px;
+     margin-top: 0px;
+     font-size: large;
+}
+
+.imgdiv1  img{
+    width: 300px;
+    height: 200px;
+    border-radius: 2rem;
+}
+
+.imgdiv1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10px;
+}
+
+
+.title2{
+    display: flex;
+    
+    justify-content: space-between;
+    margin-left: 160px;
+    margin-right: 140px;
+     margin-top: 0px;
+     font-size: large;
+}
+
+
+
+.footbar {
+    position: relative;
+    top: -10px;
+    left: -8px;
+    width: 100vw;
+    height: 300px;
+    background-color: rgba(24, 3, 3, 0.934) ; 
+    color: white;
+    display: flex;
+    align-items: center;
+    /* align-items: self-start; */
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+ }
+
+
+ /* i{
+    position: relative;
+    z-index: 3;
+ } */
+
+
+
+ .main1{
+         
+    text-align: center;
+    justify-content: space-evenly;
+    align-items: center;
+   
+ }
+
+
+ i{
+    padding-left: 30px;
+ }
