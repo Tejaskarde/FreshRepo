@@ -1,0 +1,148 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+header{
+    height: 90px;
+    width: 100vw;
+    background-color: black;
+}
+
+.mainHead{
+    color: white;
+}
+
+.navbar{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+     padding-top: 30px;
+     padding-left: 50px;
+    padding-right: 40px;
+}
+
+a{
+    text-decoration: none;
+     color: white;
+     font-size: large;
+}
+
+.Del{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: red; */
+    padding-top: 30px;
+    
+}
+.main p{
+    text-align: center;
+}
+
+.cir{
+       border-radius: 50%;
+    background :linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(237,7,7,1) 37%, rgba(0,0,0,1) 100%);
+    width: 500px;
+    height:30px ;
+    justify-content: center;
+    text-align: center;
+    padding-top:13px ;
+    color: white;
+}
+
+.pclass{
+    margin-top: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    border-radius: 40px;
+}
+
+.imgc{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title{
+    margin-top: 20px;
+   display: flex;
+   position: relative;
+   justify-content: space-between;
+    
+}
+
+.title , .h41{
+    justify-content: space-evenly;
+    margin-left: -100px;
+}
+
+.title , .h42{
+    margin-right: 10px;
+    justify-content: space-evenly;
+}
+
+.title , .h43{
+    margin-right: 10px;
+    justify-content: space-evenly;
+}
+
+.title , .h44{
+    margin-right: -100px;
+    justify-content: space-evenly;
+}
+
+
+.img1{
+    width: 400px;
+    height: 300px;
+    border-radius: 40px;
+}
+
+.imgl{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+footer{
+    margin-top: 100px;
+    height: 280px;
+    width: 100vw;
+    background-color: rgb(41, 5, 5);
+}
+
+.downbar{
+   
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+     padding-top: 30px;
+     padding-left: 650px;
+    padding-right: 650px;
+}
+
+.downbar , i{
+    padding-top: 40px;
+}
+
+.pclass , .dp{
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+}
+
+.pclass , .h31{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
